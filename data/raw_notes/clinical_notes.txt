@@ -1,0 +1,152 @@
+# Synthetic clinical notes generated for an NLP personal project.
+# These notes are fictional and do not represent real patients.
+
+Note 1
+Patient reports cough and low-grade fever for three days. No chest pain reported. History of asthma noted. Using salbutamol inhaler as needed. Paracetamol advised for fever control.
+
+Note 2
+Patient presents with headache and dizziness. Known history of hypertension. Blood pressure reported as poorly controlled. Currently taking amlodipine and advised to continue. Ibuprofen discouraged due to blood pressure.
+
+Note 3
+Patient complains of chest tightness and shortness of breath on exertion. Past medical history includes diabetes. On metformin regularly. Aspirin started for cardiovascular risk.
+
+Note 4
+Patient reports sore throat and dry cough. No fever at present. History of asthma documented. Paracetamol recommended and inhaler use reviewed.
+
+Note 5
+Patient presents with abdominal pain and nausea. Known type 2 diabetes. Currently taking metformin. Advised hydration and paracetamol for pain.
+
+Note 6
+Patient reports fever, chills, and muscle aches. No chronic lung disease reported. Paracetamol started with good effect. No antibiotics indicated at this stage.
+
+Note 7
+Patient complains of wheezing and nighttime cough. History of asthma noted. Using salbutamol inhaler frequently. Ibuprofen avoided due to asthma.
+
+Note 8
+Patient presents with fatigue and frequent urination. Known diabetes with poor glucose control. On metformin but reports missed doses. Lifestyle advice reinforced.
+
+Note 9
+Patient reports chest pain that is sharp and worse on movement. History of hypertension. Currently taking ramipril. Pain likely musculoskeletal, ibuprofen advised.
+
+Note 10
+Patient complains of headache and mild fever. No neurological symptoms. History of hypertension. Paracetamol recommended and fluids encouraged.
+
+Note 11
+Patient reports shortness of breath and cough productive of sputum. Known asthma. Salbutamol inhaler use increased. Paracetamol advised for discomfort.
+
+Note 12
+Patient presents with joint pain and morning stiffness. History of hypertension. Taking bendroflumethiazide. Ibuprofen prescribed with caution.
+
+Note 13
+Patient reports chest discomfort and palpitations. Known diabetes. Currently on metformin and aspirin. ECG requested for further assessment.
+
+Note 14
+Patient complains of fever and sore throat. No difficulty swallowing. History of asthma. Paracetamol advised and inhaler technique reviewed.
+
+Note 15
+Patient presents with dizziness and blurred vision. Known hypertension. On losartan. Blood pressure monitoring advised.
+
+Note 16
+Patient reports persistent cough and wheeze. History of asthma. Using preventer inhaler irregularly. Advised to resume regular use and take paracetamol if needed.
+
+Note 17
+Patient complains of lower back pain. No red flag symptoms. History of diabetes. Ibuprofen prescribed short term.
+
+Note 18
+Patient reports nausea and reduced appetite. Known hypertension. Currently taking amlodipine. Paracetamol suggested for mild discomfort.
+
+Note 19
+Patient presents with chest tightness during cold weather. History of asthma. Salbutamol inhaler effective. No signs of infection.
+
+Note 20
+Patient complains of fatigue and poor concentration. Known diabetes. Blood sugar control reviewed. Continues metformin.
+
+Note 21
+Patient reports fever and productive cough. No breathlessness at rest. History of hypertension. Paracetamol started and review planned.
+
+Note 22
+Patient presents with headache and neck stiffness ruled out. Known asthma. Paracetamol effective. No further action required.
+
+Note 23
+Patient complains of leg swelling and shortness of breath on exertion. History of hypertension. On ACE inhibitor. Aspirin added following review.
+
+Note 24
+Patient reports abdominal bloating and mild pain. Known diabetes. Taking metformin. Dietary advice given.
+
+Note 25
+Patient presents with wheezing after exercise. History of asthma. Salbutamol inhaler used pre-exercise. No additional treatment required.
+
+Note 26
+Patient reports chest pain radiating to the shoulder. Known hypertension. On ramipril. Aspirin given and referred for assessment.
+
+Note 27
+Patient complains of fever and headache. No rash present. History of diabetes. Paracetamol advised.
+
+Note 28
+Patient presents with cough and breathlessness at night. Known asthma. Preventer inhaler dose increased. Paracetamol for chest discomfort.
+
+Note 29
+Patient reports frequent thirst and fatigue. History of diabetes. On metformin with partial control. Blood tests requested.
+
+Note 30
+Patient complains of knee pain and stiffness. Known hypertension. Ibuprofen prescribed with monitoring. Advised gentle exercise.
+
+Note 31
+Patient presents with sore chest following coughing. No cardiac features. History of asthma. Paracetamol recommended.
+
+Note 32
+Patient reports dizziness when standing. Known hypertension. On diuretics. Medication review planned.
+
+Note 33
+Patient complains of wheeze and chest tightness overnight. History of asthma. Salbutamol inhaler effective. Continue current plan.
+
+Note 34
+Patient presents with headache and mild nausea. Known diabetes. Blood sugar checked. Paracetamol given.
+
+Note 35
+Patient reports cough and low energy levels. No fever. History of hypertension. Supportive care advised.
+
+Note 36
+Patient complains of burning chest pain after meals. Known diabetes. On metformin. Antacid advised alongside aspirin review.
+
+Note 37
+Patient presents with breathlessness on stairs. History of asthma. Inhaler technique reviewed. Paracetamol as needed.
+
+Note 38
+Patient reports joint aches and fatigue. Known hypertension. Ibuprofen prescribed short term. Blood pressure monitoring advised.
+
+Note 39
+Patient complains of headache and raised blood pressure readings. History of hypertension. On amlodipine. Dose adjustment considered.
+
+Note 40
+Patient presents with cough and wheeze after infection. History of asthma. Salbutamol increased temporarily. Paracetamol for fever.
+
+Note 41
+Patient reports numbness in feet. Known diabetes. On metformin. Neuropathy suspected and reviewed.
+
+Note 42
+Patient complains of chest discomfort during stress. History of hypertension. Aspirin commenced. Lifestyle advice given.
+
+Note 43
+Patient presents with sore throat and fever. No breathing difficulty. History of asthma. Paracetamol advised.
+
+Note 44
+Patient reports fatigue and weight fluctuation. Known diabetes. Blood glucose poorly controlled. Medication adherence discussed.
+
+Note 45
+Patient complains of wheezing in cold air. History of asthma. Salbutamol inhaler effective. No infection signs.
+
+Note 46
+Patient presents with headache and sinus pressure. Known hypertension. Paracetamol recommended. Avoid decongestants.
+
+Note 47
+Patient reports chest pain when coughing. History of asthma. No cardiac features. Ibuprofen given cautiously.
+
+Note 48
+Patient complains of frequent urination and thirst. Known diabetes. On metformin. Further monitoring arranged.
+
+Note 49
+Patient presents with breathlessness and ankle swelling. History of hypertension. On ACE inhibitor. Aspirin continued.
+
+Note 50
+Patient reports fever, cough, and muscle aches. No chronic conditions apart from asthma. Paracetamol advised and inhaler use continued.
